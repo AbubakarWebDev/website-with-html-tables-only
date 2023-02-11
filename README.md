@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/YOUR_USERNAME/HTML-Table-Website.git
+git clone https://github.com/AbubakarWebDev/website-with-html-tables-only.git
 
 2. Open the project folder in your text editor.
 3. Start editing the HTML files to make changes to the website.
